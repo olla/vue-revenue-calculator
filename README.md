@@ -1,6 +1,6 @@
-![shieldsIO](https://img.shields.io/github/issues/beatrizsmerino/vue-dinner-calculator)
-![shieldsIO](https://img.shields.io/github/forks/beatrizsmerino/vue-dinner-calculator)
-![shieldsIO](https://img.shields.io/github/stars/beatrizsmerino/vue-dinner-calculator)
+![shieldsIO](https://img.shields.io/github/issues/olla/vue-dinner-calculator)
+![shieldsIO](https://img.shields.io/github/forks/olla/vue-dinner-calculator)
+![shieldsIO](https://img.shields.io/github/stars/olla/vue-dinner-calculator)
 
 # Vue Dinner Calculator
 ### Vue Dinner Calculator is an application that calculates the cost of a dinner according to *the price of dinner per person*, *the number of people* and *tips*.
