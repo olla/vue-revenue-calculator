@@ -7,6 +7,8 @@
 
 ![Image of App Vue Revenue Calculator](https://github.com/olla/vue-revenue-calculator/blob/master/README/images/vue-revenue-calculator.png)
 
+[Github demo page](https://olla.github.io/vue-revenue-calculator/)
+
 ## Development interface
 ![Vue logo](https://github.com/olla/vue-revenue-calculator/blob/master/README/images/vue-js-2.jpg)
 
@@ -58,6 +60,3 @@ totalTip = totalTaxes + (((tip * priceOfRevenue) / 100) + priceOfRevenue)
 ```javascript
 totalPerson = (totalTaxes + totalTip) * numOfPersons;
 ```
-
-## Continue...
-> Don't stop learn. It is a basic example to start learning vue. :wink:
